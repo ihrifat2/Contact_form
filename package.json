@@ -1,0 +1,15 @@
+{
+	"name": "contact",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "imran",
+	"license": "ISC",
+	"dependencies": {
+		"bootstrap": "^4.0.0-beta.2",
+		"lite-server": "^2.3.0"
+	}
+}
